@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">برای ارسال لمس و حرکت از مرورگر به صفحه گوشی لازم است. فرمان‌ها فقط هنگام فعال بودن سرور محلی برنامه دریافت می‌شوند.</string>
+</resources>
